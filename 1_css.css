@@ -1,0 +1,29 @@
+h1{
+    color : #00B7ea;
+    font-size: 350%;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    background: #666666;
+}
+nav{
+   text-align: center;
+}
+h2
+{
+  background: #00B7ea;
+}
+details
+{
+   font-style: italic;
+}
+summary
+{
+  font-style: normal;
+}
+footer
+{
+  background: #666666;
+}
+#spp{
+   color : blue;
+}
